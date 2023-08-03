@@ -1,0 +1,12 @@
+import { Settings } from 'react-native'
+
+export { default as StartScreen } from './StartScreen'
+export { default as Profile} from './Profile'
+export { default as LoginScreen } from './LoginScreen'
+export { default as RegisterScreen } from './RegisterScreen'
+export { default as ResetPasswordScreen } from './ResetPasswordScreen'
+export { default as Dashboard } from './Dashboard'
+export {default as Scr1 } from './Scr1'
+export {default as Scr2 } from './Scr2'
+export {default as Homes} from './Homes'
+export {default as Settings } from './Settings'
